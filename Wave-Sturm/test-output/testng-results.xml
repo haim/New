@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WebOrders Automation Smoke Tests" duration-ms="6" started-at="2018-09-09T17:45:05Z" finished-at="2018-09-09T17:45:05Z">
+    <groups>
+    </groups>
+    <test name="Order tests" duration-ms="6" started-at="2018-09-09T17:45:05Z" finished-at="2018-09-09T17:45:05Z">
+    </test> <!-- Order tests -->
+    <test name="Login tests " duration-ms="6" started-at="2018-09-09T17:45:05Z" finished-at="2018-09-09T17:45:05Z">
+    </test> <!-- Login tests  -->
+  </suite> <!-- WebOrders Automation Smoke Tests -->
+</testng-results>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22158" started-at="2018-07-30T06:47:28Z" finished-at="2018-07-30T06:47:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22158" started-at="2018-07-30T06:47:28Z" finished-at="2018-07-30T06:47:50Z">
+      <class name="com.iihs.smoke_tests.Smoke_Test">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="setUpTest" is-config="true" duration-ms="63" started-at="2018-07-30T06:47:28Z" finished-at="2018-07-30T06:47:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="setUp" is-config="true" duration-ms="2570" started-at="2018-07-30T06:47:28Z" finished-at="2018-07-30T06:47:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_general_statistic()[pri:2, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="verify_general_statistic" duration-ms="43" started-at="2018-07-30T06:47:31Z" description="Verify General Statistics  is displayed" finished-at="2018-07-30T06:47:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_general_statistic -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-07-30T06:47:31Z" finished-at="2018-07-30T06:47:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_general_statistic status=SUCCESS method=Smoke_Test.verify_general_statistic()[pri:2, instance:com.iihs.smoke_tests.Smoke_Test@784b990c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="setUp" is-config="true" duration-ms="1621" started-at="2018-07-30T06:47:31Z" finished-at="2018-07-30T06:47:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_search_button()[pri:3, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="verify_search_button" duration-ms="0" started-at="2018-07-30T06:47:32Z" description="Verify Search Button is displayed" finished-at="2018-07-30T06:47:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_search_button -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-07-30T06:47:32Z" finished-at="2018-07-30T06:47:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_search_button status=SUCCESS method=Smoke_Test.verify_search_button()[pri:3, instance:com.iihs.smoke_tests.Smoke_Test@784b990c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="setUp" is-config="true" duration-ms="705" started-at="2018-07-30T06:47:32Z" finished-at="2018-07-30T06:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_tab_menus()[pri:4, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="verify_tab_menus" duration-ms="112" started-at="2018-07-30T06:47:33Z" description="Verify main tab menus is displayed" finished-at="2018-07-30T06:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_tab_menus -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-07-30T06:47:33Z" finished-at="2018-07-30T06:47:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_tab_menus status=SUCCESS method=Smoke_Test.verify_tab_menus()[pri:4, instance:com.iihs.smoke_tests.Smoke_Test@784b990c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="setUp" is-config="true" duration-ms="621" started-at="2018-07-30T06:47:33Z" finished-at="2018-07-30T06:47:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="click_on_yearly_snapshot()[pri:5, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="click_on_yearly_snapshot" duration-ms="138" started-at="2018-07-30T06:47:34Z" description="click on Yearly snapshot" finished-at="2018-07-30T06:47:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_yearly_snapshot -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="setUp" is-config="true" duration-ms="627" started-at="2018-07-30T06:47:34Z" finished-at="2018-07-30T06:47:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-07-30T06:47:34Z" finished-at="2018-07-30T06:47:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_yearly_snapshot status=SUCCESS method=Smoke_Test.click_on_yearly_snapshot()[pri:5, instance:com.iihs.smoke_tests.Smoke_Test@784b990c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="click_on_gender()[pri:6, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="click_on_gender" duration-ms="2020" started-at="2018-07-30T06:47:35Z" description="click on Gender" finished-at="2018-07-30T06:47:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_gender -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-07-30T06:47:37Z" finished-at="2018-07-30T06:47:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_gender status=SUCCESS method=Smoke_Test.click_on_gender()[pri:6, instance:com.iihs.smoke_tests.Smoke_Test@784b990c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="setUp" is-config="true" duration-ms="619" started-at="2018-07-30T06:47:37Z" finished-at="2018-07-30T06:47:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="click_on_passenger_vehicle_occupants()[pri:7, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="click_on_passenger_vehicle_occupants" duration-ms="3053" started-at="2018-07-30T06:47:37Z" description="click on  Passenger vehicle occupants" finished-at="2018-07-30T06:47:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_passenger_vehicle_occupants -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-07-30T06:47:40Z" finished-at="2018-07-30T06:47:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_passenger_vehicle_occupants status=SUCCESS method=Smoke_Test.click_on_passenger_vehicle_occupants()[pri:7, instance:com.iihs.smoke_tests.Smoke_Test@784b990c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="setUp" is-config="true" duration-ms="626" started-at="2018-07-30T06:47:40Z" finished-at="2018-07-30T06:47:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="click_on_state_by_state()[pri:8, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="click_on_state_by_state" duration-ms="1698" started-at="2018-07-30T06:47:41Z" description="click on  State by state occupants" finished-at="2018-07-30T06:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_state_by_state -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-07-30T06:47:43Z" finished-at="2018-07-30T06:47:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_state_by_state status=SUCCESS method=Smoke_Test.click_on_state_by_state()[pri:8, instance:com.iihs.smoke_tests.Smoke_Test@784b990c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="setUp" is-config="true" duration-ms="653" started-at="2018-07-30T06:47:43Z" finished-at="2018-07-30T06:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_Fatality_facts_topics_links()[pri:9, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="verify_Fatality_facts_topics_links" duration-ms="508" started-at="2018-07-30T06:47:43Z" description="Verify All Fatality Facts Topics is displayed" finished-at="2018-07-30T06:47:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Fatality_facts_topics_links -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-07-30T06:47:44Z" finished-at="2018-07-30T06:47:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_Fatality_facts_topics_links status=SUCCESS method=Smoke_Test.verify_Fatality_facts_topics_links()[pri:9, instance:com.iihs.smoke_tests.Smoke_Test@784b990c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="setUp" is-config="true" duration-ms="649" started-at="2018-07-30T06:47:44Z" finished-at="2018-07-30T06:47:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_yearly_snapshot_links()[pri:10, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="verify_yearly_snapshot_links" duration-ms="403" started-at="2018-07-30T06:47:44Z" description="Verify All Fatality Yearly snapshot drop down menu links are displayed" finished-at="2018-07-30T06:47:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_yearly_snapshot_links -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="setUp" is-config="true" duration-ms="683" started-at="2018-07-30T06:47:45Z" finished-at="2018-07-30T06:47:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-07-30T06:47:45Z" finished-at="2018-07-30T06:47:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_yearly_snapshot_links status=SUCCESS method=Smoke_Test.verify_yearly_snapshot_links()[pri:10, instance:com.iihs.smoke_tests.Smoke_Test@784b990c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="click_on_2015_link()[pri:11, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="click_on_2015_link" duration-ms="2191" started-at="2018-07-30T06:47:45Z" description="click on 2015 from Yearly snapshot drop down menu" finished-at="2018-07-30T06:47:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_2015_link -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-07-30T06:47:48Z" finished-at="2018-07-30T06:47:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_2015_link status=SUCCESS method=Smoke_Test.click_on_2015_link()[pri:11, instance:com.iihs.smoke_tests.Smoke_Test@784b990c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="setUp" is-config="true" duration-ms="739" started-at="2018-07-30T06:47:48Z" finished-at="2018-07-30T06:47:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_data_subsections()[pri:12, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="verify_data_subsections" duration-ms="104" started-at="2018-07-30T06:47:48Z" description="Verify Data subsections links are displayed" finished-at="2018-07-30T06:47:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_data_subsections -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-07-30T06:47:48Z" finished-at="2018-07-30T06:47:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_data_subsections status=SUCCESS method=Smoke_Test.verify_data_subsections()[pri:12, instance:com.iihs.smoke_tests.Smoke_Test@784b990c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="setUp" is-config="true" duration-ms="654" started-at="2018-07-30T06:47:48Z" finished-at="2018-07-30T06:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="click_on_trends()[pri:13, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="click_on_trends" duration-ms="120" started-at="2018-07-30T06:47:49Z" description="click on Trends" finished-at="2018-07-30T06:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_trends -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-07-30T06:47:49Z" finished-at="2018-07-30T06:47:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=click_on_trends status=SUCCESS method=Smoke_Test.click_on_trends()[pri:13, instance:com.iihs.smoke_tests.Smoke_Test@784b990c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="setUp" is-config="true" duration-ms="663" started-at="2018-07-30T06:47:49Z" finished-at="2018-07-30T06:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_trends_title()[pri:14, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="verify_trends_title" duration-ms="133" started-at="2018-07-30T06:47:50Z" description="Verify that Trends is title" finished-at="2018-07-30T06:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_trends_title -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-07-30T06:47:50Z" finished-at="2018-07-30T06:47:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_trends_title status=SUCCESS method=Smoke_Test.verify_trends_title()[pri:14, instance:com.iihs.smoke_tests.Smoke_Test@784b990c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:com.iihs.smoke_tests.Smoke_Test@784b990c]" name="tearDownTest" is-config="true" duration-ms="112" started-at="2018-07-30T06:47:50Z" finished-at="2018-07-30T06:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- com.iihs.smoke_tests.Smoke_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
